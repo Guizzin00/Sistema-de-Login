@@ -21,4 +21,5 @@ Este é um sistema simples de **login** desenvolvido em **Java** usando a biblio
 - **IDE** como **IntelliJ IDEA**, **Eclipse**, ou **NetBeans**.
 - **Conexão com a internet** para carregar o GIF de fundo (se não for armazenado localmente).
 
-![image](https://github.com/user-attachments/assets/f3a091ca-e361-47c8-b1f6-d24634c69b5d)
+![image](https://github.com/user-attachments/assets/f3a091ca-e361-47c8-b1f6-d24634c69b5d), ![image](https://github.com/user-attachments/assets/5760db1e-fb64-4cbb-bbb0-e278b8b58d6f)
+
